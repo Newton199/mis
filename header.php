@@ -191,15 +191,15 @@ session_start();
 						<div class="col-md-6">
 							<div class="header-search">
 								<form>
-									<select class="input-select">
+									<!--<select class="input-select">
 										<option value="0">All Categories</option>
 										<option value="1">Men</option>
-										<option value="1">elecronic</option>
+										<option value="1">elecronic</option> -->
 										
 										
 									</select>
-									<input class="input" id="search" type="text" placeholder="Search here">
-									<button type="submit" id="search_btn" class="search-btn">Search</button>
+									<!--<input class="input" id="search" type="text" placeholder="Search here">
+									<button type="submit" id="search_btn" class="search-btn">Search</button> -->
 								</form>
 							</div>
 						</div>
